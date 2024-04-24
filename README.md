@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @krishnaveni-1
+- 👀 I’m interested in salesforce and Javascript
+- 🌱 I’m currently learning salesforcc APEX and LWC
+- 💞️ I’m looking to collaborate on LWC projects
+- 📫 How to reach me a.krishnaveni@gmail.com
